@@ -31,6 +31,7 @@ public class Calculation {
 			sum = A+B;
 			System.out.println("Case"+""+"#"+i+":"+""+sum);
 			
+			
 		}
 		
 		
