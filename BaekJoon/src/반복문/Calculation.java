@@ -22,6 +22,7 @@ public class Calculation {
 		StringTokenizer st;
 		
 		int T = Integer.parseInt(br.readLine());
+		
 		int sum;
 		
 		for(int i=1;i<=T;i++) {
